@@ -1,0 +1,70 @@
+html
+{
+  color: black;
+  background-color: white;
+  background-repeat: round;
+  background-image: url(../img/background.png);
+}
+
+body
+{
+  margin: 64px 160px;
+  line-height: 1.3;
+}
+
+main, header
+{
+    padding: 16px 24px;
+    background-color: #FFF;
+    color: inherit;
+    border: solid 4px black;
+}
+
+header
+{
+  margin: 64px 0px 24px 0px;
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+  line-height: 1;
+}
+
+main
+{
+  margin: 24px 0px 64px 0px;
+  font: 16px 'Ubuntu', sans-serif;
+}
+
+p
+{
+  margin: 16px 8px 0px;
+}
+
+#subtitle
+{
+  margin: 8px 0px 0px 0px;
+  font-size: 20px;
+  font-style: italic;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  font-weight: bold;
+  font-family: 'Bree Serif', serif;
+  margin: 24px 0px 0px;
+}
+h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child
+{
+  margin: 0px;
+}
+h1
+{
+  font-size: 36px;
+}
+h2
+{
+  font-size: 24px;
+}
+h3
+{
+  font-size: 18px;
+}
