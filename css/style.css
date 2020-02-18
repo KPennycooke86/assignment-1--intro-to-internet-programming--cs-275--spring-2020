@@ -1,0 +1,28 @@
+html{
+    color: #ffffff;
+    background: #011111;
+}
+h1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size:50px;
+    text-align: center;
+
+    margin: 50px 50px 10px 50px;
+    padding:10px 10px 10px 10px;
+}
+h2{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+
+    font-size:25px;
+    margin: 20px 20px 20px 20px;
+}
+ol{
+    font-family:'Cinzel',serif;
+    text-align: center;
+    
+}
+p{
+    font-family:'Cinzel',serif;
+    margin: 30px;
+}
