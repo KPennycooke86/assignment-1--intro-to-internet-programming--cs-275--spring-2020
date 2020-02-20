@@ -1,3 +1,6 @@
 ol > li::marker {
   list-style-type: decimal;
 }
+p {
+  margin: 5px;
+}
