@@ -37,6 +37,9 @@
   margin-left: 1%;
   height: 100%;
   padding: 30px 0;
+  border: 5px solid;
+  border-color: #A52A2A;
+  border-style: groove;
   background-color: #A52A2A;
 }
 
