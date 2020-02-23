@@ -44,3 +44,7 @@ a:visited{
   color: DarkGrey;
 }
 
+a:hover{
+  color: crimson;
+}
+
