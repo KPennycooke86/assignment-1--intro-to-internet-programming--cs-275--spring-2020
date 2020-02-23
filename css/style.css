@@ -54,3 +54,7 @@ a:hover{
   margin-left: 50px;
 }
 
+.wrapper .content h2{
+  font-size: 20px;
+  text-align: center;
+}
