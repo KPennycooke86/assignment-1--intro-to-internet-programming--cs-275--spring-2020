@@ -14,6 +14,13 @@
   width: 80%;
   margin: auto;
 }
+
+.container h1{
+  font-family: 'Special Elite', sans-serif;
+  font-size: 35px;
+  text-align: center;
+}
+
 .wrapper{
   display: flex;
   position: relative;
