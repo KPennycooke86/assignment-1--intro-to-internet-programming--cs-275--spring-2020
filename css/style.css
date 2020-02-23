@@ -40,7 +40,6 @@
   border: 5px solid;
   border-color: #A52A2A;
   border-style: groove;
-  background-color: #A52A2A;
 }
 
 .wrapper .sidebar h2{
@@ -69,8 +68,7 @@ a:hover{
 
 .wrapper .content{
   width: 100%;
-  margin-top: 50px;
-  margin-left: 50px;
+  margin: 50px;
 }
 
 .wrapper .content h2{
