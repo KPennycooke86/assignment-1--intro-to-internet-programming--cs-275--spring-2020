@@ -18,6 +18,7 @@
 .container h1{
   font-family: 'Special Elite', sans-serif;
   font-size: 35px;
+  padding: 5px;
   text-align: center;
 }
 
