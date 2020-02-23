@@ -20,6 +20,9 @@
   font-size: 35px;
   padding: 5px;
   text-align: center;
+  border: 5px solid;
+  border-color: #A52A2A;
+  border-style: groove;
 }
 
 .wrapper{
