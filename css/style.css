@@ -10,6 +10,10 @@
   line-height: 1.6em;
 }
 
+.container{
+  width: 80%;
+  margin: auto;
+}
 .wrapper{
   display: flex;
   position: relative;
