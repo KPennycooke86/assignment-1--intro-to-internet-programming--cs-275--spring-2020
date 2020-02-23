@@ -52,10 +52,12 @@
   padding-bottom: 0;
   border: 5px #A52A2A solid;
   border-radius: 20px;
+  font-family: 'Special Elite', sans-serif;
 }
 
 .wrapper .sidebar p{
   text-align: center;
+  font-family: 'Special Elite', sans-serif;
 }
 
 .wrapper .sidebar ol li{
