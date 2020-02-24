@@ -1,3 +1,10 @@
+body {
+  font-family; 'Open Sans', sans-serif;
+}
+h1,
+{
+  font-family: 'Pacifico';
+}
 header {
   width: 30%;
   border: 5px solid purple;
