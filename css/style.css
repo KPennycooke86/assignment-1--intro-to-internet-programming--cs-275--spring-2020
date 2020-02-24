@@ -1,13 +1,10 @@
 
 header {
-  width: 35%;
+  width: 100%;
   border: 5px solid white;
   font-family: Kosugi;
   text-align: center;
   font-size: 32px;
-}
-header h1 {
-  text-align: center;
 }
 <style>
 p {
