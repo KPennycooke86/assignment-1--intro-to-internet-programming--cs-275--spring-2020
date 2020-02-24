@@ -1,19 +1,27 @@
 
 header {
   width: 35%;
-  border: 3px solid purple;
+  border: 5px solid white;
   font-family: Kosugi;
   text-align: center;
-  margin-left:475px;
-  margin-bottom: 10px;
   font-size: 32px;
 }
+header h1 {
+  text-align: center;
+}
 <style>
-
- li {
-   line-height: 15px;
-   margin-left: 10px;
-   margin-top: 5px;
-   font-family: Kosugi;
- }
- </style>
+p {
+  line-height: 20px;
+  margin-bottom: 10px;
+  margin-top:10px;
+  margin-left:10px;
+  text-align: left;
+  font-family: Raleway;
+}
+li {
+  line-height: 15px;
+  margin-left: 10px;
+  margin-top: 5px;
+  font-family: Kosugi;
+}
+</style>
