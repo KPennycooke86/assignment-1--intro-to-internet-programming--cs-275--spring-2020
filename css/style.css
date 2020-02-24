@@ -1,11 +1,10 @@
-body {
-  font-family; 'Open Sans', sans-serif;
-}
-h1,
-{
-  font-family: 'Pacifico';
-}
+
 header {
-  width: 30%;
-  border: 5px solid purple;
+  width: 35%;
+  border: 3px solid purple;
+  font-family: Kosugi;
+  text-align: center;
+  margin-left:475px;
+  margin-bottom: 10px;
+  font-size: 32px;
 }
