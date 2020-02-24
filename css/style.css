@@ -9,6 +9,10 @@ body{
   background-color: #79DAE3;
 }
 
+p{
+  color: #114A40;
+}
+
 ol{
   list-style: "1";
 }
