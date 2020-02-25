@@ -1,4 +1,4 @@
-ol > li::marker {
+ol {
   list-style-type: decimal;
   margin: auto;
   padding-left: 40px;
