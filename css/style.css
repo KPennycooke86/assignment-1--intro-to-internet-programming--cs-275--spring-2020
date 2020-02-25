@@ -14,8 +14,10 @@ header {
    padding: 40px;
    font-size: 50px;
 }
-img {
-   
+img.center{
+   display: block;
+   margin: auto;
+   padding-top: 15px;
 }
 h2,
 h3 {
