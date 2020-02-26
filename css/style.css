@@ -1,26 +1,39 @@
 
 header {
   width: 100%;
-  border: 5px solid white;
   font-family: Kosugi;
   text-align: center;
   font-size: 32px;
 }
 p{
-  line-height: 20px;
+  line-height: 25px;
   margin-bottom: 10px;
   margin-top:10px;
   margin-left:10px;
   text-align: left;
   font-family: Raleway;
 }
+  p:first-of-type:first-letter {
+    float: left;
+    font-size: 50px;
+    font-weight: bolder ;
+    margin-right: 1px;
+    margin-left: 1px;
+  }
+  p:last-of-type {
+    font-weight: bold;
+  }
+
+
 li {
   line-height: 15px;
-  margin-left: 10px;
-  margin-top: 5px;
+  margin-left: 20px;
+  margin-top: 20px;
   font-family: Kosugi;
+  text-align: center;
 }
 img {
-  width: 200px;
-  
+  width: 205px;
+float: left;
+margin-bottom: 15px;
 }
