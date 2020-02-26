@@ -17,6 +17,10 @@ header {
    padding: 40px;
    font-size: 50px;
 }
+#img {
+   float: left;
+   padding-left: 400px;
+}
 }
 h2,
 h3 {
