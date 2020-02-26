@@ -54,6 +54,12 @@ ul {
    margin-top: 6px;
    padding-left: 45px;
 }
+main {
+   background-color: #D2D3D8;
+   color: #000000;
+   text-align: center;
+   margin: 45px 385px;
+}
 ol{
    font-family: 'Roboto', sans-serif;
    font-size: 18px;
