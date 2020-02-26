@@ -36,6 +36,13 @@ h3 {
    font-family: 'Archivo Black', sans-serif;
    font-size: 30px;
    text-decoration: underline;
+   margin-top: 270px;
+   margin-bottom: -370px;
+   padding-left: 15px;
+}
+   font-family: 'Archivo Black', sans-serif;
+   font-size: 30px;
+   text-decoration: underline;
    padding: 2px;
    margin: 10px;
 }
