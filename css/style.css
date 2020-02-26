@@ -24,6 +24,13 @@ header {
 #ul{
    float: left;
 }
+h2 {
+   font-family: 'Archivo Black', sans-serif;
+   font-size: 30px;
+   text-decoration: underline;
+   margin-top: 9px;
+   margin-left: 1128px;
+   padding-top: 115px;
 }
 h2,
 h3 {
