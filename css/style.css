@@ -17,10 +17,6 @@ header {
    padding: 40px;
    font-size: 50px;
 }
-img.center{
-   display: block;
-   margin: auto;
-   padding-top: 15px;
 }
 h2,
 h3 {
@@ -34,14 +30,15 @@ ul {
    font-family: 'Roboto', sans-serif;
    font-size: 20px;
    line-height: normal;
-   margin: 10px;
-   padding-left: 30px;
+   margin-top: 6px;
+   padding-left: 45px;
 }
 ol{
    font-family: 'Roboto', sans-serif;
    font-size: 18px;
    line-height: 135%;
    padding-left: 30px;
+   margin-top: 385px;
 }
 p {
    background-color: #FFE0E0;
