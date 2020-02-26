@@ -73,3 +73,8 @@ p {
    padding: 8px;
    margin: 15px;
 }
+section {
+   background-color: #FFE0E0;
+   color: inherit;
+   margin: 30px;
+}
