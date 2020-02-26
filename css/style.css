@@ -21,6 +21,9 @@ header {
    float: left;
    padding-left: 400px;
 }
+#ul{
+   float: left;
+}
 }
 h2,
 h3 {
