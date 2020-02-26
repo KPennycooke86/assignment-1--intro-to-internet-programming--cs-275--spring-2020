@@ -9,7 +9,7 @@ header {
    background-color: #48484C; 
    font-family: 'Archivo Black', sans-serif;
    color: #FFFFFF;
-   border: 5px dashed #FFE0E0;
+   border: 5px inset #FFE0E0;
    text-align: center;
    margin: 30px 120px;
    padding: 40px;
