@@ -1,4 +1,25 @@
 body{
-  background-color: red;
+  background-color: rgb(61, 53, 54);
   color: white;
+}
+#song-list{
+  color: black;
+  font-family: fantasy;
+}
+p{
+  font-family: monospace;
+  font-size: 18px
+}
+h1{
+  font-family: fantasy;
+  font-size: 50px;
+  color: black;
+  text-align: center;
+}
+h2{
+  color: black;
+  font-size: 23px;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-style:oblique;
+  text-align: center;
 }
