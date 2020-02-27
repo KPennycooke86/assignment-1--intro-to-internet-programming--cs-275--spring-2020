@@ -27,10 +27,13 @@ main {
     #songs ol li .number {
       color: #44dbfd; }
 
-img {
-  width: 400px; }
-
 #review {
-  font-size: 18px; }
+  font-size: 18px;
+  line-height: 21px;
+  margin: 30px 10% 0 10%; }
+  #review img {
+    float: right;
+    width: 400px;
+    margin-left: 20px; }
 
 /*# sourceMappingURL=style.css.map */
