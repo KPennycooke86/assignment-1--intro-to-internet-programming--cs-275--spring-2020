@@ -1,0 +1,22 @@
+header {
+  font-family: "Comfortaa", serif;
+  margin: 20px 10%; }
+  header h1 {
+    font-size: 60px; }
+  header #by {
+    color: #3971fe;
+    font-size: 45px; }
+  header #members {
+    font-size: 30px; }
+
+html {
+  background-color: #4ffcbd; }
+
+main {
+  font-family: "Open Sans", sans-serif; }
+
+#songs {
+  margin: auto 10%;
+  font-size: 20px; }
+
+/*# sourceMappingURL=style.css.map */
