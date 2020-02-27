@@ -16,14 +16,15 @@ main {
   font-family: "Open Sans", sans-serif; }
 
 #songs {
-  background-color: black;
-  color: #4ffcbd;
-  padding: 20px 0;
-  font-size: 20px;
-  line-height: 28px; }
-  #songs li {
-    margin: auto 10%; }
-    #songs li .number {
+  display: flex;
+  justify-content: center;
+  background-color: black; }
+  #songs ol {
+    color: #4ffcbd;
+    margin: 15px 0;
+    font-size: 20px;
+    line-height: 28px; }
+    #songs ol li .number {
       color: #44dbfd; }
 
 img {
