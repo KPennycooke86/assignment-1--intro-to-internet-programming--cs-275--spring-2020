@@ -16,7 +16,20 @@ main {
   font-family: "Open Sans", sans-serif; }
 
 #songs {
-  margin: auto 10%;
-  font-size: 20px; }
+  background-color: black;
+  color: #4ffcbd;
+  padding: 20px 0;
+  font-size: 20px;
+  line-height: 28px; }
+  #songs li {
+    margin: auto 10%; }
+    #songs li .number {
+      color: #44dbfd; }
+
+img {
+  width: 400px; }
+
+#review {
+  font-size: 18px; }
 
 /*# sourceMappingURL=style.css.map */
