@@ -35,5 +35,15 @@ main {
     float: right;
     width: 400px;
     margin-left: 20px; }
+  #review p {
+    margin-top: 20px; }
+  #review .pull-quote {
+    background-color: black;
+    color: #44dbfd;
+    float: left;
+    margin: 20px -10%;
+    padding: 20px 30px;
+    font-family: "Comfortaa", serif;
+    font-size: 24px; }
 
 /*# sourceMappingURL=style.css.map */
