@@ -37,6 +37,10 @@ p:nth-child(12){
 }
 
 ol li {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 400px;
+  margin-right: 400px;
 }
 
 ol{
