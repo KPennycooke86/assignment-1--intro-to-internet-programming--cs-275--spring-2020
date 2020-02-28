@@ -1,9 +1,13 @@
 
+
 header {
   width: 100%;
   font-family: Kosugi;
   text-align: center;
   font-size: 32px;
+}
+body {
+  background-color: rgb(173, 216, 230);
 }
 p{
   line-height: 25px;
@@ -33,7 +37,7 @@ li {
   text-align: center;
 }
 img {
-  width: 205px;
-float: left;
-margin-bottom: 15px;
+float: right;
+margin-bottom: 10px;
+
 }
