@@ -33,6 +33,7 @@ p:nth-child(12){
   background-color: #CB8F50;
   color: #114A40;
   font-family: 'Montserrat', monospace;
+  text-align: center;
 }
 
 ol li {
