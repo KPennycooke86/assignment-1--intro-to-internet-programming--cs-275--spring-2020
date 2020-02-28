@@ -33,8 +33,10 @@ li {
   line-height: 15px;
   margin-left: 20px;
   margin-top: 20px;
+  margin-bottom: 15px;
   font-family: Kosugi;
   text-align: center;
+  color: white;
 }
 img {
 float: right;
