@@ -25,6 +25,10 @@ h1{
 p{
   color: #114A40;
   font-family: 'Raleway',monospace;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 }
 
 ol li {
