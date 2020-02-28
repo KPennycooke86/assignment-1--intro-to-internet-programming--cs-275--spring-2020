@@ -36,11 +36,14 @@ li {
   margin-top: 20px;
   margin-bottom: 15px;
   font-family: Kosugi;
-  text-align: center;
+  text-align: left;
   color: white;
 }
 img {
 float: right;
 margin-bottom: 10px;
+}
 
+img {
+  float:center;
 }
