@@ -29,6 +29,13 @@ p{
   p:last-of-type {
     font-weight: bold;
   }
+  img {
+    float:center;
+    margin-right: auto;
+    margin-top: 5px;
+    float: right;
+    margin-bottom: 10px;
+  }
 li {
   line-height: 15px;
   margin-left: 20px;
@@ -37,15 +44,4 @@ li {
   font-family: Kosugi;
   text-align: left;
   color: white;
-}
-img {
-float: right;
-margin-bottom: 10px;
-}
-
-img {
-  float:center;
-  margin-right: 350px;
-  margin-top: 20px;
-
 }
