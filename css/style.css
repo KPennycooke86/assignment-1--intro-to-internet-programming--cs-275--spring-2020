@@ -36,7 +36,9 @@ p{
     float: right;
     margin-bottom: 10px;
   }
-
+.image1 img {
+  float: left;
+}
 li {
   line-height: 15px;
   margin-left: 20px;
