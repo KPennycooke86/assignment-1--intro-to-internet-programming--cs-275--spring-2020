@@ -134,7 +134,7 @@ a:hover{
   margin: auto;
   width: 670px;
   height: 230px;
-  overflow: scroll;
+  overflow-y: scroll;
   overflow-x: hidden;
 }
 
