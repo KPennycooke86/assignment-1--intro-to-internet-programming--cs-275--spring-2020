@@ -22,7 +22,7 @@ p{
   p:first-of-type:first-letter {
     float: left;
     font-size: 50px;
-    font-weight: bolder ;
+    font-weight: strong;
     margin-right: 1px;
 
   }
