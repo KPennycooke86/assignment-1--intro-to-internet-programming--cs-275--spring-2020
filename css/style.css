@@ -98,5 +98,9 @@ a:hover{
   font-size: 16px;
 }
 
+.wrapper .content .right{
+  float: right;
   text-align: center;
+  font-size: 11px;
+}
 }
