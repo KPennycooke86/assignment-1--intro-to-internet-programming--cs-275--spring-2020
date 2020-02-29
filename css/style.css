@@ -131,6 +131,7 @@ font-family: 'Anton', cursive;
 
 div:nth-child(7) {
 
+  width: 750px;
 font-family: 'Anton', cursive;
 color: red;
 }
@@ -141,6 +142,7 @@ div:nth-child(8) {
 
 div:nth-child(9) {
 
+  width: 750px;
 font-family: 'Anton', cursive;
 }
 
