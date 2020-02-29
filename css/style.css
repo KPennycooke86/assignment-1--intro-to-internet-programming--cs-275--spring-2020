@@ -1,0 +1,66 @@
+#header{
+   text-align: center;
+   padding-bottom: 25px;
+}
+#header h1{
+   font-size: 3.5em;   
+}
+#header h2{
+   font-size: 1.25em;
+}
+
+#album{
+   text-align: center;
+}
+#album h1{
+   font-size: 2em;
+   padding-top: 25px;
+   padding-bottom: 25px;
+}
+#album li{
+   list-style-type: none;
+   padding-bottom: 12.5px;
+}
+body{
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #484848;
+   color: #EEEEEE;
+   font-family: 'Playfair Display';
+}
+#firstreview{
+   padding-top: 25px;
+   padding-bottom: 30px;
+   line-height: 150%;
+   margin-right: 25px;
+   margin-left: 8px;
+}
+
+#secondreview{
+   line-height: 150%;
+   margin-right: 25px;
+   margin-left: 8px;
+   margin-bottom: 25px;
+}
+#secondreview img{
+   display: block;
+   margin:auto;
+   padding-top: -12.5px;
+   padding-bottom: 12.5px;
+}
+#secondreview p{
+   padding-bottom: 12.5px;
+}
+#secondreview li{
+   list-style-type: none;
+}
+#reviewheader{
+   padding-top: 20px;
+   margin-left: 5px;
+   font-size: 1.5em;
+   text-decoration: underline;
+}
+#footer img{
+   display: block;
+   margin:auto;
+}
