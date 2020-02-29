@@ -34,6 +34,7 @@ img{
 
 p{
   color: #114A40;
+  background-color: rgba(0,0,0,0);
   font-family: 'Raleway',monospace;
   padding-top: 10px;
   padding-bottom: 10px;
