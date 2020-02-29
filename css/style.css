@@ -75,6 +75,7 @@ ol li {
   width: 300px;
   font-family: 'Montserrat', monospace;
   color: #114A40;
+  background-color: rgba(0,0,0,0);
 }
 
 ol{
