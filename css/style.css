@@ -27,6 +27,11 @@ h1{
   text-align: center;
 }
 
+img{
+  max-width: 60%;
+  height: auto;
+}
+
 p{
   color: #114A40;
   font-family: 'Raleway',monospace;
