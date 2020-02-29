@@ -69,10 +69,12 @@
 }
 
 a:visited{
+  background-color: #131313;
   color: DarkGrey;
 }
 
 a:hover{
+  background-color: #131313;
   color: crimson;
 }
 
