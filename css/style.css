@@ -1,8 +1,8 @@
 body{
   background-color: #79DAE3;
   background: linear-gradient(0deg, rgba(73,210,226,1) 0%, rgba(121,218,227,1) 35%, rgba(55,208,160,1) 100%);
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 h1{
