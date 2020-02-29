@@ -70,8 +70,8 @@ p:nth-child(15){
 ol li {
   margin-top: 3px;
   margin-bottom: 3px;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 40%;
+  margin-right: 40%;
   width: 300px;
   font-family: 'Montserrat', monospace;
   color: #114A40;
