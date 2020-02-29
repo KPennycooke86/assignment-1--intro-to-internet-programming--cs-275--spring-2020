@@ -26,9 +26,7 @@ p{
     margin-right: 1px;
 
   }
-  p:last-of-type {
-    font-weight: bold;
-  }
+
   img {
     float:center;
     margin-right: auto;
