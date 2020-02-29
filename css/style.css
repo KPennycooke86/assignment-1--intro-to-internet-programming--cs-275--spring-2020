@@ -1,11 +1,66 @@
 body {
+  font-size: 12px;
   font-family: 'Times New Roman', sans-serif;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Garamond', cursive;
+}
+
+h1 {
+  font-size: 34px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 26px;
+  text-align: center;
+  color: inherit;
+  margin: 4px;
+  background-color: #bfbfbf;
+}
+
+div {
+   margin: 4px;
+   border: 10px solid transparent;
+   padding: 12px;
+   height: 100px;
+   text-align: center;
+   font-size: 18px;
+}
+
+div:nth-child(1) {
+  color: inherit;
+   background-color: #bfbfbf;
+   border-color: #404040;
+}
+
+div:nth-child(2) {
+  color: inherit;
+   background-color: #bfbfbf;
+   border-color: #404040;
+}
+
+div:nth-child(3) {
+  color: inherit;
+   background-color: #bfbfbf;
+   border-color: #404040;
+}
+
+div:nth-child(4) {
+  color: inherit;
+   background-color: #bfbfbf;
+   border-color: #404040;
+}
+
+div:nth-child(5) {
+  color: inherit;
+   background-color: #bfbfbf;
+   border-color: #404040;
+}
+
+div:nth-child(6) {
+  color: inherit;
+   background-color: #bfbfbf;
+   border-color: #404040;
 }
