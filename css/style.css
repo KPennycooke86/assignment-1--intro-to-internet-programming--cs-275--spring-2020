@@ -31,8 +31,7 @@ img:nth-child(2) {
   height: 200px;
   width: 200px;
    top: 100px;
-   right: 200px;
-   border: solid black;
+   right: 225px;
 }
 
 img:nth-child(3) {
