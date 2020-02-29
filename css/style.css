@@ -13,8 +13,8 @@ img{height:200px;}
 .flex{
     justify-content:flex-end;
     display:flex;
-    flex-flow:center;
-    align-items:flex-end;
+    flex-flow:row;
+    align-items:center;
     margin: 20px 50px 30px 50px;
 }
 h1{
