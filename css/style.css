@@ -16,6 +16,8 @@ h1{
   text-align: center;
   color: #114A40;
   background-color: rgba(0,0,0,0);
+  padding-top: 20px;
+  padding-bottom: 20px;
   border: solid;
   border-color: #CB8F50;
   border-radius: 8px;
