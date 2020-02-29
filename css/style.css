@@ -12,6 +12,11 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
 h3 {
   font-size: 26px;
   text-align: center;
@@ -38,13 +43,13 @@ div:nth-child(1) {
 }
 
 div:nth-child(2) {
-  color: inherit;
+   color: inherit;
    background-color: #bfbfbf;
    border-color: #404040;
 }
 
 div:nth-child(3) {
-  color: inherit;
+   color: inherit;
    background-color: #bfbfbf;
    border-color: #404040;
 }
