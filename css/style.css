@@ -40,6 +40,15 @@ p{
   padding-bottom: 10px;
 }
 
+p:nth-child(1){
+  position: relative;
+  bottom: 8px;
+  background-color: #CB8F50;
+  color: #114A40;
+  font-family: 'Open Sans', serif;
+  text-align: center;
+}
+
 p:nth-child(15){
   background-color: #CB8F50;
   color: #114A40;
