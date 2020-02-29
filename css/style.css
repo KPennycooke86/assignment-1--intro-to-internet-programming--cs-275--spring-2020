@@ -123,6 +123,10 @@ a:hover{
   margin-right: 10px;
 }
 
+.wrapper .content h3{
+  font-size: 25px;
+  text-align: center;
+}
 footer{
   text-align: center;
   border-top: 5px #A52A2A groove;
