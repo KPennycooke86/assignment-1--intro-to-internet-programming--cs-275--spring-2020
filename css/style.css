@@ -82,6 +82,9 @@ a:hover{
 }
 
 .wrapper .content h2{
-  font-size: 20px;
+  font-size: 30px;
+  padding: 20px;
+  text-align: center;
+}
   text-align: center;
 }
