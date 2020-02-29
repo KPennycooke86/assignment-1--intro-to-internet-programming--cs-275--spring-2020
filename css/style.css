@@ -135,6 +135,13 @@ a:hover{
   overflow: scroll;
   overflow-x: hidden;
 }
+
+.scroll-box img{
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+}
+
 footer{
   text-align: center;
   border-top: 5px #A52A2A groove;
