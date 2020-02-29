@@ -30,7 +30,9 @@ div {
 }
 
 div:nth-child(1) {
-  color: inherit;
+   height: 375px;
+   text-align: left;
+   color: inherit;
    background-color: #bfbfbf;
    border-color: #404040;
 }
@@ -42,24 +44,6 @@ div:nth-child(2) {
 }
 
 div:nth-child(3) {
-  color: inherit;
-   background-color: #bfbfbf;
-   border-color: #404040;
-}
-
-div:nth-child(4) {
-  color: inherit;
-   background-color: #bfbfbf;
-   border-color: #404040;
-}
-
-div:nth-child(5) {
-  color: inherit;
-   background-color: #bfbfbf;
-   border-color: #404040;
-}
-
-div:nth-child(6) {
   color: inherit;
    background-color: #bfbfbf;
    border-color: #404040;
