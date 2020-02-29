@@ -127,6 +127,14 @@ a:hover{
   font-size: 25px;
   text-align: center;
 }
+
+.scroll-box{
+  margin: auto;
+  width: 670px;
+  height: 230px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
 footer{
   text-align: center;
   border-top: 5px #A52A2A groove;
