@@ -3,6 +3,9 @@ body{
   background: linear-gradient(0deg, rgba(73,210,226,1) 0%, rgba(121,218,227,1) 35%, rgba(55,208,160,1) 100%);
   margin-left: 20%;
   margin-right: 20%;
+  color: rgba(0,0,0,0);
+}
+
 }
 
 h1{
