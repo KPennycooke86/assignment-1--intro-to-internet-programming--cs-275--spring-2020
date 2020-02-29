@@ -49,6 +49,10 @@ p:nth-child(1){
   text-align: center;
 }
 
+p:nth-child(3){
+  text-align: right;
+}
+
 p:nth-child(15){
   background-color: #CB8F50;
   color: #114A40;
