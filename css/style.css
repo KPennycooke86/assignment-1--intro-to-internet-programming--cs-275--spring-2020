@@ -109,4 +109,10 @@ a:hover{
   height: 230px;
   margin-left: 2px;
 }
+
+.wrapper .content .left{
+  float: left;
+  text-align: center;
+  font-size: 11px;
+}
 }
