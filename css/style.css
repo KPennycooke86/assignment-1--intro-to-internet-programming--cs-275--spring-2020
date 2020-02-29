@@ -3,7 +3,7 @@ header {
   width: 100%;
   font-family: Caveat;
   text-align: center;
-  font-size: 24px;
+  font-size: 32px;
   background-color: beige;
   float: center;
   margin-top: 10px;
@@ -24,7 +24,7 @@ p{
     font-size: 50px;
     font-weight: bolder ;
     margin-right: 1px;
-    margin-left: 1px;
+
   }
   p:last-of-type {
     font-weight: bold;
