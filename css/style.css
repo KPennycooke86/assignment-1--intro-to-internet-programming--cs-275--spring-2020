@@ -1,8 +1,14 @@
 body {
+  color: inherit;
+  background-color: black;
+  background-image: url('../img/cover.jpg');
+  background-repeat: no-repeat;
+  background-size: 40%;
+}
+
+body {
   font-size: 12px;
   font-family: 'Open Sans', sans-serif;
-  background-image: url('../img/cover.jpg');
-  background-size: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -31,8 +37,8 @@ h3 {
   height: 270px;
   font-size: 26px;
   text-align: left;
-  margin-left: 4px;
-  margin-right: 1100px;
+  margin-left: 1100px;
+  margin-right: 4px;
 }
 
 div {
