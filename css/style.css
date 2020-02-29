@@ -122,4 +122,9 @@ a:hover{
   margin-right: 10px;
 }
 
+footer{
+  text-align: center;
+  border-top: 5px #A52A2A groove;
+  margin: 15px;
+  padding-top: 10px;
 }
