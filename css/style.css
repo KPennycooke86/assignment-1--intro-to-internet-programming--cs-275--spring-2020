@@ -5,24 +5,31 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Garamond', cursive;
+  color: inherit;
+  border: 5px solid;
+  border-color: #404040;
+  background-color: #bfbfbf;
 }
 
 h1 {
   font-size: 34px;
   text-align: center;
+  height: 40px;
+  margin: 4px;
 }
 
 h2 {
   font-size: 20px;
   text-align: center;
+  height: 65px;
+  margin: 4px;
 }
 
 h3 {
   font-size: 26px;
-  text-align: center;
-  color: inherit;
-  margin: 4px;
-  background-color: #bfbfbf;
+  text-align: left;
+  margin-left: 4px;
+  margin-right: 1100px;
 }
 
 div {
