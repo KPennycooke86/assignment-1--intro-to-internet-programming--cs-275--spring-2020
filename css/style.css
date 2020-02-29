@@ -24,8 +24,7 @@ body
 img:nth-child(1) {
   height: 200px;
   width: 200px;
-   right: 50px;
-   border: solid black;
+   right: 25px;
 }
 
 img:nth-child(2) {
