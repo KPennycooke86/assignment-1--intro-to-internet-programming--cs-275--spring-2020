@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(12, 11, 11);
+  background-color: rgb(228, 226, 226);
   color: white;
 }
 ol{
@@ -15,15 +15,16 @@ ol{
   padding-top: 85px;
   padding-bottom: 85px;
   padding-right: 205px;
-  font-size: 23px
+  font-size: 23px;
 }
 p{
   background-color: rgb(61, 56, 57);
-  padding: 30px;
+  padding: 40px;
   color: black;
   font-family: monospace;
   font-size: 20px;
   text-indent: 50px;
+  margin-top: 20px;
   margin-left: 70px;
   margin-right: 70px;
   margin-bottom: 30px;
@@ -40,49 +41,33 @@ h1{
   padding: 10px;
   font-family: fantasy;
   font-size: 50px;
-  color: white;
-  text-align: center;
-}
-h2{
-  background-color: inherit;
-  color: white;
-  text-decoration: underline;
-  margin-top: 20px;
-  margin-left: 500px;
-  margin-right: 500px;
-  margin-bottom: 20px;
-  font-size: 33px;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  text-align: center;
-}
-h3{
-  background-color: rgb(61, 56, 57);
+  font-style: oblique;
   color: black;
-  margin-left: 70px;
-  margin-right: 70px;
-  padding-top: 15px;
   text-align: center;
-  font-family: fantasy;
-  font-size: 28px;
-  box-shadow: 7px 7px rgb(36, 34, 34);
 }
+
 #artist{
+  background-color: rgb(61, 56, 57);
   text-align: center;
+  font-weight: bold;
   font-size: 23px;
-  font-family: fantasy;
-  letter-spacing: 1px;
+  text-shadow: 1.75px 1px black;
+  font-family: sans-serif;
+  letter-spacing: 2px;
   padding-left: 10px;
+  color: white;
 }
+
 a{
   color: white;
   background-color: inherit;
 }
-img{
+#song-list{
   float: left;
   margin-top: 30px;
   margin-left: 300px;
 }
 #band{
-  max-width: 100%;
-  height: auto;
+  margin-left: 50px;
+  margin-right: 50px;
 }
