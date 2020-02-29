@@ -103,4 +103,10 @@ a:hover{
   text-align: center;
   font-size: 11px;
 }
+
+.wrapper .content #img-one{
+  width: 200px;
+  height: 230px;
+  margin-left: 2px;
+}
 }
