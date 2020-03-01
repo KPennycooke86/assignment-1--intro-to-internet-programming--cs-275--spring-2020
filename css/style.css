@@ -1,0 +1,71 @@
+body{
+  background-color: rgba(72, 62, 140, 55);
+  font-family: ('Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif');
+  margin: 15px;
+}
+img{
+  background-color: rgba(52, 133, 137, 52);
+  margin-left: 120px;
+  padding: 20px;
+}
+
+h1{
+  background-color: rgba(84, 191, 152, 75);
+  text-align: center;
+  font-size: 28px;
+  font-family: monospace;
+  padding-top: 20px;
+  padding-bottom: 4px;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 40px;
+}
+
+#artists{
+  background-color: rgba(84, 191, 152, 75);
+  text-align: center;
+  font-size: 28px;
+  font-family: monospace;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-bottom: 40px;
+}
+
+#list{
+  background-color: rgba(52, 133, 137, 52);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: right;
+  float: right;
+  margin-top: 30px;
+  margin-right: 120px;
+}
+
+#quote{
+  padding-left: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+p{
+  padding: 8px;
+  border: 8px;
+  border-color: rgba(90, 188, 141, 74);
+  background-color: rgba(34, 115, 107, 45);
+  text-align: justify;
+  margin: 20px;
+  font-family: veranda, sans-serif;
+}
+
+footer{
+  background-color: rgba(34, 115, 107, 45);
+  text-align: center;
+  font-size: .7em;
+  margin-left: 325px;
+  margin-right: 325px;
+  padding: 4px;
+}
