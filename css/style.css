@@ -1,0 +1,36 @@
+header{
+  background-color: #EBA558;
+}
+body{
+  background-color: #EBA558;
+}
+h1{
+  font-family: Simonetta;
+  font-size: 45px;
+  font-style: normal;
+  text-align: center;
+  border: 15px solid #FF0000;
+}
+h2{
+  font-family: Simonetta;
+  font-size: 30px;
+  font-style: normal;
+  text-align: left;
+  border: 15px solid #FF0000;
+  padding: 10px;
+}
+h3{
+  font-family: Simonetta;
+  font-size: 30px;
+  font-style: normal;
+  text-align: left;
+  border: 15px solid #FF0000;
+  padding: 10px;
+}
+p1{
+  font-family: Simonetta;
+  font-size: 15px;
+  font-style: normal;
+  text-align: right;
+  padding: 10px;
+}
