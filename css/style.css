@@ -1,0 +1,23 @@
+body {
+  font-family: 'Simonetta', sans-serif;
+  font-size: 20px;
+  margin-left: 0.3em;
+  background-color: #8ACCFF;
+  color: black;
+}
+h2 {
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+}
+h3 {
+  font-family: 'Sacramento', cursive;
+  font-size: 45px;
+  text-align: center;
+  margin-top: 0.4em;
+  margin-bottom: 0.3em;
+}
+p {
+  line-height: 30px;
+}
+ol li{
+}
