@@ -2,3 +2,6 @@
   font-family: Source Sans Pro;
   background-color: #020202;
   color: silver;
+p {
+  text-align: justify;
+}
