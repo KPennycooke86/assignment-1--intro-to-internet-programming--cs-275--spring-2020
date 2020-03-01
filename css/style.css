@@ -1,0 +1,36 @@
+body{
+    text-decoration: none;
+    font-family: Veranda, Cavier, sans-serif;
+    text-align:center;
+    background-color: rgb(240, 242, 240);
+    color:black;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+h1{
+    font-family: Sand, Didot, serif;
+    font-style: italic;
+    font-size: 60px;
+}
+h2{
+
+    font-size: 20px;
+    color:rgb(35, 36, 35);
+}
+div{
+    font-size: 16px;
+    line-height: 1.8;
+}
+img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a{
+    color: rgb(28, 28, 28);
+}
+
+
+
