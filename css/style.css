@@ -3,6 +3,7 @@ html, body {
 }
 ol,ul{
   list-style: inside decimal-leading-zero;
+  background-color: hsl(166, 80%, 86%);
 }
 h1{
   font-family: 'Fredoka One';
