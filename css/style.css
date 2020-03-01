@@ -17,6 +17,7 @@ body{
   background-color: hsla(171, 29%, 52%, 0.5);
   line-height: 1.5;
 }
+.row{display:flex;flex-wrap:nowrap;width:100%;margin:15px;}
 img.front{
   width:71%;
   float:right;
