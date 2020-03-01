@@ -17,6 +17,9 @@ h2 {
   font-size: 20px;
 }
 
+main {
+  display: flex;
+}
 
 ol {
   list-style-type: decimal;
