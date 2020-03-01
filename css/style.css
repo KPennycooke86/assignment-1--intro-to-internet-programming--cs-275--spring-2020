@@ -1,0 +1,47 @@
+html{
+  background-color: #222;
+}
+p {color: pink;}
+
+ol
+{list-style: numbered;
+color: #ee2182;}
+
+header {
+  padding: 5px;
+  margin: 10px;
+  color: white;
+}
+body{}
+
+  div:nth-child(2) {
+      font-family: 'Lacquer';
+    }
+
+  div:nth-child(3) {
+    position: absolute;
+    font-family: 'Covered By Your Grace', sans-serif;
+    font-size: 21px;
+    line-height: 1.5;
+    padding: 10px;
+    margin: 10px;
+    bottom: 80px;
+    left: 500px;
+  }
+
+
+
+  img{
+  width: 36%;
+  margin: 10px;
+  }
+
+
+
+h1{
+  font-size: 46px;
+  font-family: 'Archivo Black','Anton';
+}
+h2 {
+  font-size: 16px;
+}
