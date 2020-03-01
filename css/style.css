@@ -1,6 +1,9 @@
 html, body {
   overflow-x: hidden;
 }
+ol,ul{
+  list-style: inside decimal-leading-zero;
+}
 h1{
   font-family: 'Fredoka One';
   font-size: 50px;
