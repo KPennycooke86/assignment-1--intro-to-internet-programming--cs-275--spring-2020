@@ -1,47 +1,49 @@
-html{
-  background-color: #222;
-}
-p {color: pink;}
+html {background-color: #222;}
 
-ol
-{list-style: numbered;
-color: #ee2182;}
+p {
+color: #ea8297;
+margin: 10px;
+font-family:sans-serif;
+font-size:16px;
+line-height:1.5;
+}
+
+ol {
+list-style: numbered;
+color: #ee2182;
+}
 
 header {
-  padding: 5px;
-  margin: 10px;
-  color: white;
+padding: 5px;
+margin: 10px;
+color: white;
+font-size: 46px;
+font-family: 'Archivo Black','Anton';
 }
-body{}
 
-  div:nth-child(2) {
-      font-family: 'Lacquer';
-    }
-
-  div:nth-child(3) {
-    position: absolute;
-    font-family: 'Covered By Your Grace', sans-serif;
-    font-size: 21px;
-    line-height: 1.5;
-    padding: 10px;
-    margin: 10px;
-    bottom: 80px;
-    left: 500px;
-  }
-
-
-
-  img{
-  width: 36%;
-  margin: 10px;
-  }
-
-
-
-h1{
-  font-size: 46px;
-  font-family: 'Archivo Black','Anton';
+div:nth-child(2) {
+font-family: 'Lacquer';
+margin: 0px 10px 30px 10px;
+font-size: 14px;
+color: #6DCFF6;
 }
-h2 {
-  font-size: 16px;
+
+div:nth-child(3) {
+position: absolute;
+font-family: 'Covered By Your Grace', sans-serif;
+font-size: 22px;
+line-height: 1.45;
+padding: 10px;
+margin: 10px;
+bottom: 75px;
+left: 530px;
+}
+
+img {
+width: 36%;
+margin: 10px;
+}
+
+a {
+padding: 10px;
 }
