@@ -21,6 +21,9 @@ img.front{
   width:71%;
   float:right;
 }
+img.back{
+  width:80%;
+}
 p{
   margin: 10px 50px;
 }
