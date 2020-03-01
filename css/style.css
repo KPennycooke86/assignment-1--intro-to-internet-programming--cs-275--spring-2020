@@ -1,0 +1,49 @@
+html {background-color: #222;}
+
+p {
+color: #ea8297;
+margin: 10px;
+font-family:sans-serif;
+font-size:16px;
+line-height:1.5;
+}
+
+ol {
+list-style: numbered;
+color: #ee2182;
+}
+
+header {
+padding: 5px;
+margin: 10px;
+color: white;
+font-size: 46px;
+font-family: 'Archivo Black','Anton';
+}
+
+div:nth-child(2) {
+font-family: 'Lacquer';
+margin: 0px 10px 30px 10px;
+font-size: 14px;
+color: #6DCFF6;
+}
+
+div:nth-child(3) {
+position: absolute;
+font-family: 'Covered By Your Grace', sans-serif;
+font-size: 22px;
+line-height: 1.45;
+padding: 10px;
+margin: 10px;
+bottom: 75px;
+left: 530px;
+}
+
+img {
+width: 36%;
+margin: 10px;
+}
+
+a {
+padding: 10px;
+}
