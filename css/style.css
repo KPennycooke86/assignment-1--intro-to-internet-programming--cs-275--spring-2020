@@ -4,6 +4,7 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   line-height: 1.2;
+  background-color: hsl(35,88%,30%);
 }
 
 
