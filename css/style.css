@@ -17,6 +17,9 @@ body{
   background-color: hsla(171, 29%, 52%, 0.5);
   line-height: 1.5;
 }
+img.front{
+  width:71%;
+}
 p{
   margin: 10px 50px;
 }
