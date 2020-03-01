@@ -19,6 +19,7 @@ body{
 }
 img.front{
   width:71%;
+  float:right;
 }
 p{
   margin: 10px 50px;
