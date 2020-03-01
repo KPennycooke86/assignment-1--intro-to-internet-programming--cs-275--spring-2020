@@ -15,4 +15,5 @@ h2{
 body{
   font-family: 'Spartan';
   background-color: hsla(171, 29%, 52%, 0.5);
+  line-height: 1.5;
 }
