@@ -12,6 +12,7 @@ header {
   margin-bottom: 15px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 h1 {
