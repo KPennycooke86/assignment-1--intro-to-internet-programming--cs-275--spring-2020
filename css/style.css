@@ -33,6 +33,7 @@ section {
   margin: 10px;
   border: 2px solid black;
   padding: 5px;
+  background-color: hsl(100,60%,32%);
 }
 
 p {
