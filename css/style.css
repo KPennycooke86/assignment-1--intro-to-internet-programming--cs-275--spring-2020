@@ -8,6 +8,9 @@ body {
   color: hsl(0, 0%, 0%);
 }
 
+header {
+  margin-bottom: 15px;
+}
 
 h1 {
   font-size: 40px;
