@@ -5,6 +5,7 @@ ol,ul{
   list-style: inside decimal-leading-zero;
   background-color: hsl(166, 80%, 86%);
   border: 5px solid; border-color: hsl(197, 34%, 27%);
+  margin: auto;
 }
 h1{
   font-family: 'Fredoka One';
