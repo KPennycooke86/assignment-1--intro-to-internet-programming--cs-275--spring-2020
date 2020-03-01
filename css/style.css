@@ -1,0 +1,53 @@
+header {
+  font-family: "Comfortaa", serif;
+  padding: 20px 10%; }
+  header h1 {
+    font-size: 60px; }
+  header #by {
+    color: #3971fe;
+    font-size: 45px; }
+  header #members {
+    font-size: 30px; }
+
+html {
+  background-color: #4ffcbd; }
+
+main {
+  font-family: "Open Sans", sans-serif; }
+
+#songs {
+  display: flex;
+  justify-content: center;
+  background-color: black; }
+  #songs ol {
+    color: #4ffcbd;
+    margin: 15px 0;
+    font-size: 21px;
+    line-height: 28px; }
+    #songs ol li .number {
+      color: #44dbfd; }
+
+#review {
+  font-size: 18px;
+  line-height: 21px;
+  margin: 30px 10% 0 10%;
+  text-indent: 40px; }
+  #review img {
+    float: right;
+    width: 400px;
+    margin-left: 20px; }
+  #review p {
+    margin-top: 20px; }
+  #review .pull-quote {
+    background-color: black;
+    color: #44dbfd;
+    float: left;
+    margin: 20px -10%;
+    padding: 20px 30px;
+    font-family: "Comfortaa", serif;
+    font-size: 24px;
+    line-height: 30px; }
+  #review #source {
+    font-size: 12px; }
+
+/*# sourceMappingURL=style.css.map */
