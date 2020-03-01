@@ -19,6 +19,7 @@ body{
 }
 .row{display:flex;flex-wrap:nowrap;width:100%;margin:15px;}
 .cell{width:33.33%;}
+.inline-flex{display:inline-flex;}
 img.front{
   width:71%;
   float:right;
