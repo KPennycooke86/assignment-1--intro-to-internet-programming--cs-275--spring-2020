@@ -1,6 +1,9 @@
   font-family: 'Allerta Stencil', sans-serif;
 
 
+h1 {
+  font-size: 40px;
+}
 
 
 
@@ -13,7 +16,4 @@ ol {
 
 p {
   margin: 5px;
-}
-h1 {
-  font-size: 35px;
 }
