@@ -1,0 +1,160 @@
+:root{
+
+
+
+}
+
+
+/* We're working with the body tag, and so with the WHOLE page */
+body
+{
+    background-color: black; /* The page background will be black */
+    color: white; /* The page text will be white */
+}
+#the-public-enemy {
+   position: relative;
+   margin: auto;
+
+ }
+
+ img {
+   position: absolute;
+}
+
+img:nth-child(1) {
+  height: 200px;
+  width: 200px;
+   right: 25px;
+}
+
+img:nth-child(2) {
+  height: 200px;
+  width: 200px;
+   top: 100px;
+   right: 225px;
+}
+
+img:nth-child(3) {
+  height: 200px;
+  width: 200px;
+   right: 375px;
+}
+
+img:nth-child(4) {
+  height: 200px;
+  width: 200px;
+   top: 100px;
+   right: 550px;
+}
+
+img:nth-child(5) {
+  height: 200px;
+  width: 200px;
+   top: 150px;
+   right: 725px;
+}
+
+img:nth-child(6) {
+  height: 200px;
+  width: 200px;
+  top: 200px;
+   right: 400px;
+}
+
+img:nth-child(7) {
+  height: 400px;
+  width: 400px;
+  top: 950px;
+   right: 50px;
+}
+
+
+h1
+ {
+   font-size: 30px;
+   text-align: center;
+   font-family: 'Trade Winds', cursive ;
+}
+
+h2
+{
+  text-align: center;
+  font-family: 'Trade Winds', cursive ;
+  color: red;
+
+}
+
+p{
+  font-family: 'Odibee Sans', cursive ;
+  text-align: left;
+
+}
+
+div {
+   margin: 4px;
+   border: 10px solid transparent;
+   padding: 12px;
+}
+
+div:nth-child(1) {
+  font-family: 'Odibee Sans', cursive ;
+
+
+}
+
+div:nth-child(2) {
+
+}
+
+div:nth-child(3) {
+
+  
+font-family: 'Anton', cursive;
+color: red;
+}
+
+div:nth-child(4) {
+
+font-family: 'Anton', cursive;
+}
+
+div:nth-child(5) {
+font-family: 'Anton', cursive;
+color: red;
+}
+
+div:nth-child(6) {
+
+font-family: 'Anton', cursive;
+}
+
+div:nth-child(7) {
+  width: 750px;
+font-family: 'Anton', cursive;
+color: red;
+}
+
+div:nth-child(8) {
+  width: 750px;
+font-family: 'Anton', cursive;
+}
+
+div:nth-child(9) {
+
+font-family: 'Anton', cursive;
+color: red;
+}
+div:nth-child(10) {
+font-family: 'Anton', cursive;
+
+}
+div:nth-child(11) {
+
+font-family: 'Anton', cursive;
+color: red;
+}
+
+div:nth-child(12) {
+
+font-family: 'Anton', cursive;
+}
