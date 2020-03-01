@@ -1,0 +1,50 @@
+body {
+  font-family: 'Allerta Stencil', sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  line-height: 1.2;
+  background-color: hsl(35,88%,30%);
+  color: hsl(0, 0%, 0%);
+}
+
+header {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: hsl(60,100%,50%);
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+}
+
+ol {
+  list-style-type: decimal;
+  margin: auto;
+  padding-left: 40px;
+}
+
+section {
+  margin: 10px;
+  border: 2px solid black;
+  padding: 5px;
+  background-color: hsl(100,60%,32%);
+}
+
+p {
+  margin: 5px;
+  padding: 5px;
+  text-indent: 30px;
+}
