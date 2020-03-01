@@ -5,6 +5,7 @@ body {
   justify-content: center;
   line-height: 1.2;
   background-color: hsl(35,88%,30%);
+  color: hsl(0, 0%, 0%);
 }
 
 
