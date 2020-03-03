@@ -1,0 +1,139 @@
+header{
+    font-size: 22px;
+}
+h1 {
+    font-size: 18px;
+}
+
+body{
+    background-image: url(../img/public-enemy.png);
+    background-repeat: no-repeat;
+    background-position:top;
+    background-color: darkred;
+    background-size: 325px;
+
+    /*background: linear-gradient(green,gray);*/
+}
+
+ol{
+    margin: 4px;
+    /*position: sticky;*/
+    /*border: solid gray;*/
+    /*padding: 12px;*/
+    /*margin-right: 1000px;*/
+
+    Position:absolute;
+    top:60px;
+    left:1200px;
+    right:-600px;
+    margin-bottom: -1000px;
+    margin-left: -360px;
+    margin-top: -50px;
+}
+
+p{
+    margin: 4px;
+    /*border: solid grey;*/
+    padding: 12px;
+    margin-right: 350px;
+}
+
+p:nth-child(1){
+    /*Position:absolute;*/
+    /*top:60px;*/
+    /*left:1200px;*/
+    /*right:600px;*/
+    /*border: black;*/
+    /*margin-bottom: -1000px;*/
+    /*margin-left: -250px;*/
+
+    margin: 4px;
+    padding: 12px;
+    margin-right: 1000px;
+}
+p:nth-child(2){
+    Position:absolute;
+    top:315px;
+    left:1100px;
+    right:-650px;
+    margin-bottom: -1200px;
+    margin-left: -650px;
+    margin-right:1100px;
+    /*margin-right: 1000px;*/
+}
+p:nth-child(3){
+    /*Position:absolute;*/
+    /*top:315px;*/
+    /*left:1100px;*/
+    /*right:-650px;*/
+    /*margin-bottom: -1200px;*/
+    /*margin-left: -650px;*/
+    /*margin-right:1100px;*/
+
+    margin-right: 1000px;
+}
+p:nth-child(4){
+    /*margin-right: 1000px;*/
+    Position:absolute;
+    top:650px;
+    left:1100px;
+    right:-650px;
+    margin-bottom: -1200px;
+    margin-left: -650px;
+    margin-right:1100px;
+}
+p:nth-child(5){
+    /*Position:absolute;*/
+    /*top:650px;*/
+    /*left:1100px;*/
+    /*right:-650px;*/
+    /*margin-bottom: -1200px;*/
+    /*margin-left: -650px;*/
+    /*margin-right:1100px;*/
+
+    margin-right: 1000px;
+
+}
+p:nth-child(6){
+    Position:absolute;
+    top:1015px;
+    left:1100px;
+    right:-650px;
+    margin-bottom: -1200px;
+    margin-left: -650px;
+    margin-right:1100px;
+
+    /*margin-right: 1000px;*/
+
+}
+p:nth-child(7){
+    /*Position:absolute;*/
+    /*top:1015px;*/
+    /*left:1100px;*/
+    /*right:-650px;*/
+    /*margin-bottom: -1200px;*/
+    /*margin-left: -650px;*/
+    /*margin-right:1100px;*/
+
+    margin-right: 1000px;
+
+}
+p:nth-child(8){
+    Position:absolute;
+    top:1415px;
+    left:1100px;
+    right:-650px;
+    margin-bottom: -1200px;
+    margin-left: -650px;
+    margin-right:1100px;
+}
+p:nth-child(9){
+    margin-right: 1000px;
+}
+img{
+    Position:absolute;
+    top:1725px;
+    left:500px;
+}
+
+
